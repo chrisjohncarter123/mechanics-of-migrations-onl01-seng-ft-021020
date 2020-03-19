@@ -1,4 +1,4 @@
 # artist.rb
  
-class Artist
+class Artist < ActiveRecord::Base
 end
